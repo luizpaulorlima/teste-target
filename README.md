@@ -21,5 +21,5 @@ Este repositório contém uma série de projetos desenvolvidos como parte do pro
 
 ## Mais sobre o autor:
 
-1. Acesse:
+- Acesse:
     **https://github.com/luizpaulorlima**
